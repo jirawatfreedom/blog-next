@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"frontmatter":{"title":"This is First","author":"John"},"markdownBody":"","slug":"mypost"},{"frontmatter":{"title":"This is Second","author":"John"},"markdownBody":"","slug":"mysecondpost"}],"title":"Demo Blog","description":"This is simple blog build with nextjs"},"__N_SSG":true}
